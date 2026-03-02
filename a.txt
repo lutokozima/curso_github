@@ -1,3 +1,5 @@
 Testando Feature
 
 :)
+#API_LOGIN
+KEY_LOGIN = 12345
